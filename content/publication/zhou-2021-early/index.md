@@ -9,12 +9,12 @@ authors:
 - Shusheng Li
 - Hong Liu
 - Ziting Huang
-- admin
+- Yan Luo
 - Ming Hu
 - Wenjuan Wu
 - ' others'
 date: '2021-03-01'
-publishDate: '2024-08-04T14:46:29.467606Z'
+publishDate: '2025-03-07T08:47:29.750954Z'
 publication_types:
 - article-journal
 publication: '*Journal of Thoracic Disease*'

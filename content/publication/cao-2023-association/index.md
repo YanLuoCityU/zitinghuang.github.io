@@ -8,12 +8,12 @@ authors:
 - Kaipeng Wang
 - Zi-Ting Huang
 - He-Xuan Su
-- admin
+- Yan Luo
 - Carson M De Fries
 - Yong-Hua Hu
 - Beibei Xu
 date: '2023-05-01'
-publishDate: '2024-08-04T14:46:29.462156Z'
+publishDate: '2025-03-07T08:47:29.743950Z'
 publication_types:
 - article-journal
 publication: '*Aging & mental health*'

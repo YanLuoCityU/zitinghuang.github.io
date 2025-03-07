@@ -1,7 +1,7 @@
 ---
 title: Associations between multimorbidity and frailty transitions among older Americans
 authors:
-- admin
+- Yan Luo
 - Yuming Chen
 - Kaipeng Wang
 - Carson M De Fries
@@ -10,15 +10,13 @@ authors:
 - Zhou Yang
 - Yonghua Hu
 - Beibei Xu
-date: '2023-02-28'
-publishDate: '2024-08-04T14:46:29.489588Z'
+date: '2023-02-01'
+publishDate: '2025-03-07T08:47:29.771950Z'
 publication_types:
 - article-journal
-publication: '*Journal of Cachexia, Sarcopenia and Muscle*'
+publication: '*Journal of cachexia, sarcopenia and muscle*'
 doi: 10.1002/jcsm.13197
 links:
 - name: URL
   url: http://dx.doi.org/10.1002/jcsm.13197
-featured: True
-summary: 'Journal of Cachexia, Sarcopenia and Muscle. 2023 IF: 9.4; Geriatrics & Gerontology: Ranked 4/74.'
 ---

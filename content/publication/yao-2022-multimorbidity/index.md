@@ -8,13 +8,13 @@ authors:
 - Kaipeng Wang
 - Gui-Ying Cao
 - Nan Li
-- admin
+- Yan Luo
 - Yu-Ming Chen
 - He-Xuan Su
 - Zi-Shuo Chen
 - ' others'
 date: '2022-03-01'
-publishDate: '2024-08-04T14:46:29.426165Z'
+publishDate: '2025-03-07T08:47:29.701967Z'
 publication_types:
 - article-journal
 publication: '*Journal of Clinical Epidemiology*'
