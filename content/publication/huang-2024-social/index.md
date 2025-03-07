@@ -15,4 +15,6 @@ doi: 10.1016/j.arr.2024.102239
 links:
 - name: URL
   url: http://dx.doi.org/10.1016/j.arr.2024.102239
+featured: True
+summary: 'Nature Human Behaviour. 2023 IF: 22.3; Neurosciences: Ranked 2/310, Multidisciplinary Sciences: Ranked 5/134.'
 ---
