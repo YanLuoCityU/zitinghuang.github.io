@@ -9,7 +9,7 @@ date: '2025-01-01'
 publishDate: '2025-03-07T08:47:29.649490Z'
 publication_types:
 - article-journal
-publication: '*The Journal of Aging Research & Lifestyle*'
+publication: '*JAR Life*'
 doi: 10.1016/j.jarlif.2025.100007
 links:
 - name: URL
