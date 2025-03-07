@@ -23,5 +23,5 @@ links:
 - name: URL
   url: https://doi.org/10.1016%2Fj.jad.2022.01.030
 featured: True
-summary: 'Nature Human Behaviour. 2023 IF: 22.3; Neurosciences: Ranked 2/310, Multidisciplinary Sciences: Ranked 5/134.'
+summary: 'Journal of affective disorders. 2023 IF: 4.9; Psychiatry: Ranked 38/279.'
 ---
